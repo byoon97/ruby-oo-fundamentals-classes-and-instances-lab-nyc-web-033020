@@ -1,6 +1,6 @@
 class Dog
 end
 
-brandon = Dog.new
-stephanie = Dog.new
-Allina = Dog.new
+fido = Dog.new
+snoopie = Dog.new
+Lassie = Dog.new
